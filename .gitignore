@@ -123,3 +123,20 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Logs and random stuff
+/data/users/*
+/data/logs/*
+token.py
+animeart.py
+
+# Pycache
+/api_library/__pycache__
+/classes/__pycache__
+/modules/__pycache__
+/modules/active/__pycache__
+/modules/passive/__pycache__
+/tests/__pycache__
+
+
+
