@@ -126,9 +126,7 @@ dmypy.json
 
 # Logs and random stuff
 /data/users/*
-/data/logs/*
 token.py
-animeart.py
 
 # Pycache
 /api_library/__pycache__

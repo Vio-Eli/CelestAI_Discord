@@ -293,10 +293,10 @@ class Brain():
                         await message.channel.send('You don\'t have permission to stop me lol')
 
 
-                    self.msg = message
+                self.msg = message
 
-                    self.match_mods(message.content)
-                    self.execute_mods(message.content)
+                self.match_mods(message.content)
+                self.execute_mods(message.content)
     
 
 
