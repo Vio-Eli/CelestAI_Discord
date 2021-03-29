@@ -71,6 +71,14 @@ RESPONSES = {
     r'.*(aliens.*(exist|universe|space)|(believe|universe|space).*aliens).*':
         ["Science has not confirmed that aliens exist, but the universe is " +
          " expansive and full of mysteries."],
+    
+    r'.*(fuck you).*':
+        ["OwO! Onii-chan! :heart:"],
+    
+    r'.*(fuck me).*':
+        ['Ooh Opportunities!', 
+         'OwO?',
+         '*Slides it in*']
 }
 
 

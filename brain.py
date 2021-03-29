@@ -16,7 +16,7 @@ from discord.ext import commands
 import discord
 from celestai import discord_link
 
-from token import TOKEN
+import discord_token
 
 inst = None
 
@@ -301,5 +301,5 @@ class Brain():
 
 
 
-        client.run(TOKEN)
+        client.run(discord_token.TOKEN)
         #log.info('Arrivederci.')

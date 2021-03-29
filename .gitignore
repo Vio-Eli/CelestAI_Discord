@@ -126,7 +126,7 @@ dmypy.json
 
 # Logs and random stuff
 /data/users/*
-token.py
+discord_token.py
 
 # Pycache
 /api_library/__pycache__
